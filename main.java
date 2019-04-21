@@ -53,7 +53,7 @@ public class Main {
 		//ファイルに書き込む変数の宣言と初期化
 
 		try {
-			fw = new FileWriter("C:\\Users\\yuki morimoto\\Documents", true);
+			fw = new FileWriter("Path", true);
             //ファイルに書き込む処理
 
             //Document document = Jsoup.connect(main_url).userAgent(ua).get();
